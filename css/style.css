@@ -711,10 +711,10 @@ opacity: .9;
     padding: 11px 15px;
 
 }
-.form-outline .form-control~.form-notch div{
+.news .form-outline .form-control~.form-notch div{
     border:none;
 }
-.news .subscribe{
+.news .subscribe{  
     position: absolute;
     right: 0;
     top: 0px;
