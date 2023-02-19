@@ -778,3 +778,6 @@ footer .icons a i{
 .row{
     overflow: hidden;
 }
+.parent-form{
+    overflow: inherit;
+}
