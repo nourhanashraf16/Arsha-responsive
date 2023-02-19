@@ -419,6 +419,7 @@ header .buttons a span{
 .portfolio .portfolio-img{ 
     transition: all .5s ease;
     cursor: pointer;
+    
 }
 .portfolio .portfolio-img:hover{
     transform: scale(1.15); /*child*/
