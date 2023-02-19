@@ -775,3 +775,6 @@ footer .icons a i{
     color: white;
 }
 /* end footer */
+.row{
+    overflow: hidden;
+}
